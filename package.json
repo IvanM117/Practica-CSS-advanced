@@ -1,0 +1,22 @@
+{
+  "name": "practica-css",
+  "version": "1.0.0",
+  "description": "Landing page for practice",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanM117/Practica-CSS-advanced.git"
+  },
+  "author": "Iván",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanM117/Practica-CSS-advanced/issues"
+  },
+  "homepage": "https://github.com/IvanM117/Practica-CSS-advanced#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
